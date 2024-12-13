@@ -1,0 +1,26 @@
+{
+    "Resume 1": {
+        "Relevance Score": 80,
+        "Matched Technical Skills": [
+            "Python",
+            "Deep Learning Frameworks",
+            "AWS",
+            "CI/CD"
+        ],
+        "Industry Experience": 5,
+        "Qualification": "Ph.D.",
+        "Explanation": "The candidate has a strong background in machine learning and deep learning, with experience working on large-scale projects. They have worked on natural language processing and have experience with cloud computing platforms such as AWS. They also have experience with CI/CD tools and have a strong educational background, with a Ph.D. in a related field. However, their experience in search systems and information retrieval is limited, and they may not be as familiar with the specific requirements of the job description."
+    },
+    "Resume 2": {
+        "Relevance Score": 60,
+        "Matched Technical Skills": [
+            "Python",
+            "Machine Learning Frameworks",
+            "AWS",
+            "CI/CD"
+        ],
+        "Industry Experience": 3,
+        "Qualification": "Master's",
+        "Explanation": "The candidate has a strong background in machine learning and data analysis, with experience working on various projects. They have experience with cloud computing platforms such as AWS and have worked on natural language processing and deep learning projects. However, their experience in search systems and information retrieval is limited, and they may not be as familiar with the specific requirements of the job description. Additionally, their educational background is not as strong as the first candidate, with a Master's degree rather than a Ph.D."
+    }
+}

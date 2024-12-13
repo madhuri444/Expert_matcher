@@ -1,0 +1,24 @@
+{
+  "Job Title": "Machine Learning Engineer",
+  "Required Skills": [
+    "Deep practical knowledge of Search systems, with information retrieval and ranking algorithms",
+    "Knowledge of large-scale distributed application architecture, design, implementation and performance tuning",
+    "Good practical knowledge in modern machine learning lifecycle",
+    "Python/Java programming experience",
+    "AWS/GCP/Azure experience",
+    "CI/CD tools like GitHub Actions, Jenkins experience"
+  ],
+  "Key Responsibilities": [
+    "Architect, build and scale a recommendation system",
+    "Collaborate with other ML/Ops engineers to develop and improve core components, infrastructure and architecture",
+    "Collaborate with data scientists, engineers, product teams and other key stakeholders",
+    "Participate and support engineering leaders in strategic planning",
+    "Mentor, influence engineers across organizations and lead by example"
+  ],
+  "Qualifications": [
+    "Advanced degree (M.S., or Ph.D.), or equivalent industry experience in software engineering, computer science, machine learning or related fields"
+  ],
+  "Experience Level": "Senior-level",
+  "Industry": "Streaming and Media",
+  "Location": "Not specified (global role)"
+}

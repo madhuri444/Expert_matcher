@@ -1,0 +1,8 @@
+python-dotenv
+groq
+python-docx
+langchain
+sentence-transformers
+scikit-learn
+pandas
+langchain_community
