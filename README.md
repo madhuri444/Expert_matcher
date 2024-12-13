@@ -10,7 +10,7 @@ Expert Matcher leverages LLM and NLP techniques to identify and rank experts bas
 This project addresses the challenge of identifying and ranking the 100 most relevant experts based on a candidate description. By combining traditional semantic similarity methods with the power of large language models (LLMs), this tool ensures precision, scalability, and detailed ranking explanations.
 
 The approach consists of two stages:
-1) Initial Filtering using cosine similarity on embeddings to identify the top 20 resumes.
+1) Initial Filtering using cosine similarity on embeddings to identify the top 20 resumes. 
 2) Advanced Scoring by leveraging an LLM to generate relevance scores and explanations for the filtered resumes.
 
 # Project Objectives
@@ -36,12 +36,12 @@ Rank the 20 resumes based on LLM-generated scores.
 Provide an output JSON with detailed explanations for the ranking.
 
 # Technologies Used
-Programming Language: Python
-Libraries and Tools:
-PyPDFLoader: Extract text from PDF resumes.
-Sentence Transformers: Generate embeddings for semantic similarity.
-Cosine Similarity (from scikit-learn): Filter top candidates.
-Large Language Model (LLM): Perform advanced scoring and generate explanations.
-JSON: Structured input/output data.
+1. Programming Language: Python
+2. Libraries and Tools:
+3. PyPDFLoader: Extract text from PDF resumes.
+4. Sentence Transformers: Generate embeddings for semantic similarity.
+5. Cosine Similarity (from scikit-learn): Filter top candidates.
+6. Large Language Model (LLM): Perform advanced scoring and generate explanations.
+7. JSON: Structured input/output data.
 
 
